@@ -182,7 +182,7 @@
     .line 88
     new-instance v1, Landroid/content/Intent;
 
-    const-string v2, "android.intent.action.UNINSTALL_PACKAGE"
+    #const-string v2, "android.intent.action.UNINSTALL_PACKAGE"
 
     invoke-direct {v1, v2}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
 
