@@ -17,10 +17,10 @@
     <public type="anim" name="design_snackbar_in" id="0x7f01000e" />
     <public type="anim" name="design_snackbar_out" id="0x7f01000f" />
     <public type="animator" name="design_appbar_state_list_animator" id="0x7f020000" />
-    <public type="array" name="anti_virus_apps" id="0x7f030000" />
-    <public type="array" name="call_apps" id="0x7f030001" />
-    <public type="array" name="spy_apps" id="0x7f030002" />
-    <public type="array" name="task_apps" id="0x7f030003" />
+    <!-- <public type="array" name="anti_virus_apps" id="0x7f030000" /> -->
+    <!-- <public type="array" name="call_apps" id="0x7f030001" /> -->
+    <!-- <public type="array" name="spy_apps" id="0x7f030002" /> -->
+    <!-- <public type="array" name="task_apps" id="0x7f030003" /> -->
     <public type="attr" name="actionBarDivider" id="0x7f040000" />
     <public type="attr" name="actionBarItemBackground" id="0x7f040001" />
     <public type="attr" name="actionBarPopupTheme" id="0x7f040002" />
