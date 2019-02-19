@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_facebook_write">发消息</string>
+    <string name="accessibility_facebook_write_bis">输入消息</string>
+    <string name="accessibility_instagram_write">發送訊息</string>
+    <string name="accessibility_snap_write">发送聊天信息</string>
+</resources>

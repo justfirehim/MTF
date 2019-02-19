@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat android:orientation="vertical" android:id="@id/llWarning" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/primaryText" android:id="@id/tvWarningTitle" android:paddingLeft="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:textAllCaps="true" />
+    <android.support.v7.widget.AppCompatTextView android:id="@id/tvWarningText" android:paddingLeft="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <android.support.v7.widget.LinearLayoutCompat android:orientation="vertical" android:id="@id/llWarningApp" android:paddingLeft="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+    <View android:id="@id/viewSettingsDivider" android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="16.0dip" />
+</android.support.v7.widget.LinearLayoutCompat>

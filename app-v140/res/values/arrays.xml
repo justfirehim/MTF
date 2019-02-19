@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="anti_virus_apps" />
+    <style name="call_apps" />
+    <style name="spy_apps" />
+    <style name="task_apps" />
+</resources>

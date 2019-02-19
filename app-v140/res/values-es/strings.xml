@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="accessibility_enable_no">El acceso a la accesibilidad no ha sido activado correctamente.</string>
+    <string name="accessibility_enable_ok">El acceso a la accesibilidad ha sido activado correctamente.</string>
+    <string name="accessibility_facebook_write">Escribe un mensaje</string>
+    <string name="accessibility_facebook_write_bis">Escribe un mensaje</string>
+    <string name="accessibility_instagram_write">mensaje...</string>
+    <string name="accessibility_message">"La activación de la accesibilidad permite recuperar los mensajes enviados en Facebook Messenger, WhatsApp, Viber y Snapchat.
+
+Instrucciones: 
+1) Busque la sección 'Servicios'
+2) Seleccione '%1$s' 
+3) Actívelo."</string>
+    <string name="accessibility_message_apps">"La activación de la accesibilidad permite que las aplicaciones se bloqueen.
+
+Instructions: 
+1) Busque la sección 'Servicios'
+2) Seleccione '%1$s' 
+3) Actívelo."</string>
+    <string name="accessibility_message_bis">Seleccione %1$s y actívelo.</string>
+    <string name="accessibility_message_settings">La accesibilidad es útil para varias funciones de la aplicación (mensajería instantánea, bloqueo de aplicaciones e historial del sitio web).</string>
+    <string name="accessibility_message_settings_bis">"Instrucciones: 
+1) Busque la sección 'Servicios'
+2) Seleccione '%1$s' 
+3) Actívelo."</string>
+    <string name="accessibility_message_site">"La activación de la accesibilidad permite recuperar el histórico y bloquear las páginas web.
+
+Instrucciones: 
+1) Busque la sección 'Servicios'
+2) Seleccione '%1$s' 
+3) Actívelo."</string>
+    <string name="accessibility_ok">GO</string>
+    <string name="accessibility_snap_write">Enviar um Chat</string>
+    <string name="accessibility_title">Activar la accesibilidad</string>
+    <string name="accuracy">Precisión</string>
+    <string name="action_close">Cerrar</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_info">Información de cuenta</string>
+    <string name="action_terms">Condiciones</string>
+    <string name="action_uninstall">Desinstalar</string>
+    <string name="activateActivateAdmin">Activar</string>
+    <string name="activateGPS">Acaba de activar el GPS en el teléfono (</string>
+    <string name="activateGPSD">El GPS ya está activado (</string>
+    <string name="activateGPSE">Lo sentimos, pero la activación del GPS ha fracasado (</string>
+    <string name="activateMobile">Acaba de activar los datos móviles en el teléfono (</string>
+    <string name="activateMobileD">Acaba de desactivar los datos del teléfono móvil en el teléfono (</string>
+    <string name="activateMobileDE">Lo sentimos, pero el dispositivo móvil desactivado de datos falló en el teléfono (</string>
+    <string name="activateMobileE">Lo sentimos, pero la activación de los datos móviles ha fracasado (</string>
+    <string name="activateWifi">Acaba de activar la WiFi en el teléfono (</string>
+    <string name="activateWifiD">La WiFi ya está activada (</string>
+    <string name="activateWifiE">Lo sentimos, pero la activación de la WiFi ha fracasado</string>
+    <string name="activate_admin">Los derechos de administrador han sido activados.</string>
+    <string name="activePermissions">Active todos los permisos para que la aplicación funcione correctamente.</string>
+    <string name="activePermissionsTitle">Activar todos los permisos</string>
+    <string name="address">Dirección</string>
+    <string name="addressNo">Dirección no disponible</string>
+    <string name="alertNewPhone">Conéctese aquí: https://mobile-tracker-free.es para seguir su teléfono.</string>
+    <string name="alertNewPhoneBis">La aplicación está oculta, llame al *1234* para iniciarla.</string>
+    <string name="anti_virus_warning">Atención - Antivirus</string>
+    <string name="anti_virus_warning_text">"Hemos detectado uno o más antivirus instalados en el teléfono.
+Le recomendamos que los desinstale o agregue %1$s a la lista blanca.
+Aplicaciones detectadas:"</string>
+    <string name="app_name">Mobile Tracker Free</string>
+    <string name="app_usage_enable_no">El acceso a los datos de uso no ha sido habilitado.</string>
+    <string name="app_usage_enable_ok">El acceso a los datos de uso ha sido habilitado.</string>
+    <string name="app_usage_message">Proporciona estadísticas sobre el uso de aplicaciones instaladas.</string>
+    <string name="app_usage_message_bis">Seleccione %1$s y actívelo.</string>
+    <string name="app_usage_title">Accesi a los datos de uso</string>
+    <string name="apps_message">"Activar el acceso a los datos de uso para que el bloqueo funcione.
+Parámetros => Aplicaciones con acceso de uso => %1$s"</string>
+    <string name="apps_no">El acceso a los datos de uso no ha sido activado correctamente.</string>
+    <string name="apps_ok">El acceso a los datos de uso ha sido activado correctamente.</string>
+    <string name="apps_param">Parámetros</string>
+    <string name="apps_usage_message">Active el acceso a los datos de uso para que el bloqueo de las aplicaciones pueda funcionar.</string>
+    <string name="apps_warning">Atención</string>
+    <string name="call_warning">Atención - Grabación de llamadas</string>
+    <string name="call_warning_text">"Hemos detectado una o más aplicaciones instaladas en el teléfono que se usan para grabar llamadas.
+Si no desinstala las aplicaciones afectadas, %1$s no podrá grabar las llamadas correctamente.
+Aplicaciones detectadas:"</string>
+    <string name="check_root">Verifica si el teléfono está ruteado…</string>
+    <string name="common_google_play_services_enable_button">Habilitar</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Descargar Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidad Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Servicios de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">No es posible ejecutar la aplicación %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s no funcionará hasta que no actualices Servicios de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualiza Servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve.</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="config_phone_activate_admin">Activar los derechos de administrador</string>
+    <string name="config_phone_activate_admin_title">Los derechos de administrador</string>
+    <string name="config_phone_name_phone">Nombre del teléfono</string>
+    <string name="config_phone_save_phone">Guardar</string>
+    <string name="config_phone_social_info_root_no">"Su teléfono no es root. No puede beneficiarse de esta función.
+
+Para más explicaciones sobre el root de su teléfono, busque: \"Rooted %1$s\" en Google."</string>
+    <string name="config_phone_social_info_root_no_bis">Su teléfono no es root. No puede beneficiarse de esta función.</string>
+    <string name="config_phone_social_info_root_ok">"Su teléfono es root, puede recuperar los mensajes de las diferentes redes sociales.
+
+Esta es la lista de las redes: Facebook, WhatsApp, Telegram, Hangouts, Skype, LINE, Kik, Viber y Gmail.
+
+Podrá desactivarlo, una vez el teléfono esté configurado, desde la interfaz web, así como el intervalo de envío de los mensajes (por defecto 4 horas)."</string>
+    <string name="config_phone_social_title">Mensajería instantánea</string>
+    <string name="config_title">Configuración</string>
+    <string name="confirm_password_placeholder">Confirme su contraseña</string>
+    <string name="connexion">Cargando…</string>
+    <string name="create_account_button">Crear mi cuenta</string>
+    <string name="create_account_main">Crear mi cuenta</string>
+    <string name="create_account_title">Crear mi cuenta</string>
+    <string name="create_user">Creación de cuenta en curso</string>
+    <string name="deactivate_admin">Los derechos de administrador han sido desactivados.</string>
+    <string name="deactivate_admin_bis">Advertencia: la desactivación de los derechos de administrador puede provocar un funcionamiento inestable.</string>
+    <string name="email_exist">Lo sentimos, pero esta dirección email ya ha sido utilizada.</string>
+    <string name="email_no">Su dirección email no es correcta.</string>
+    <string name="email_not_valid">"Gracias por validar su cuenta antes de agregar un teléfono.
+Debes haber recibido un correo electrónico para validar tu cuenta."</string>
+    <string name="email_placeholder">Email</string>
+    <string name="error">Error</string>
+    <string name="errorUnknow">Error desconocido</string>
+    <string name="error_gcm">Error FCM</string>
+    <string name="error_network">Verifique su conexión a internet.</string>
+    <string name="error_server">Lo sentimos, pero se ha producido un error. Inténtelo más tarde.</string>
+    <string name="error_user_mdp">Su dirección email o contraseña no es correcta.</string>
+    <string name="error_user_suspendu">Lo sentimos, pero su cuenta ha sido suspendida.</string>
+    <string name="example_name_phone">Ejemplo</string>
+    <string name="fcm_fallback_notification_channel_label">Varias</string>
+    <string name="gps">GPS</string>
+    <string name="gps_network_enabled_no">El servicio de localización no se ha activado correctamente.</string>
+    <string name="gps_network_enabled_ok">El servicio de localización ha sido activado con éxito.</string>
+    <string name="gps_network_not_enabled">Active el servicio de localización si desea recibir la posición del teléfono.</string>
+    <string name="help_site">https://mobile-tracker-free.es/help/</string>
+    <string name="hour">hora</string>
+    <string name="hours">horas</string>
+    <string name="in">Entrante</string>
+    <string name="inconnu">Desconocido</string>
+    <string name="info_command_sms">Indique una contraseña que será utilizada para enviar pedidos por SMS.</string>
+    <string name="info_name_phone">"Indique un número de teléfono.
+Encontrará este nombre en la interfaz Web: https://mobile-tracker-free.es"</string>
+    <string name="information">Información</string>
+    <string name="locked">) ha sido bloqueado con el código:</string>
+    <string name="login_attemps">Demasiados fallos de inicio de sesión, inténtalo de nuevo más tarde</string>
+    <string name="login_button">Conexión</string>
+    <string name="login_main">Conexión</string>
+    <string name="login_title">Conectarse</string>
+    <string name="minute">minuto</string>
+    <string name="minutes">minutos</string>
+    <string name="missed">Perdido</string>
+    <string name="mode_visible">Invisible mode</string>
+    <string name="mode_visible_message">If you want the icon to be hidden, select invisible mode.</string>
+    <string name="mode_visible_title">Invisible mode</string>
+    <string name="namePhoneEmpty">Indique un nombre de teléfono.</string>
+    <string name="name_phone_exists">Este nombre de teléfono ya existe.</string>
+    <string name="network">red</string>
+    <string name="noCalls">Ninguna llamada</string>
+    <string name="noLocked">) no ha sido bloqueado.</string>
+    <string name="noMessage">Ningún mensaje</string>
+    <string name="noValidPlayServices">Instale Google Services.</string>
+    <string name="no_licence">Se ha producido un error en la inscripción. Contacte con su administrador.</string>
+    <string name="notifications_enable_no">El acceso a las notificaciones no ha sido activado correctamente.</string>
+    <string name="notifications_enable_ok">El acceso a las notificaciones ha sido activado correctamente.</string>
+    <string name="notifications_message">"Habilitar el acceso a las notificaciones para recuperar el contenido de las notificaciones WhatsApp, Messenger, Viber, Skype, LINE, KIK, Tango, Hangouts, Snapchat, Telegram, WeChat, Tinder, Hike, Instagram.
+
+Instrucciones: 
+1) Seleccione '%1$s'"</string>
+    <string name="notifications_message_bis">Seleccione %1$s</string>
+    <string name="notifications_message_hide_bis">"Instrucciones: 
+1) Seleccione '%1$s'"</string>
+    <string name="notifications_ok">GO</string>
+    <string name="notifications_title">Habilitar el acceso a las notificaciones</string>
+    <string name="number_private">Número privado</string>
+    <string name="out">Saliente</string>
+    <string name="pass_no">Su contraseña debe ser superior a 6 caracteres.</string>
+    <string name="pass_no_bis">Sus contraseñas no son idénticas.</string>
+    <string name="pass_no_regex">Su contraseña debe contener al menos 6 caracteres, una letra minúscula y un carácter numérico.</string>
+    <string name="passwordSMSEmpty">Indique una contraseña</string>
+    <string name="password_not_correct">Tu contraseña no es correcta.</string>
+    <string name="password_placeholder">Contraseña</string>
+    <string name="password_sms">MobileTrackerFreeSMS</string>
+    <string name="privacy_site">https://mobile-tracker-free.es/privacy-policy/</string>
+    <string name="protect_uninstall_enable_no">El acceso a la accesibilidad no ha sido activado correctamente.</string>
+    <string name="protect_uninstall_enable_ok">El acceso a la accesibilidad ha sido activado correctamente.</string>
+    <string name="protect_uninstall_message">Proteja la desinstalación de la aplicación: para esto, es necesario activar la accesibilidad para la aplicación.</string>
+    <string name="protect_uninstall_message_bis">Seleccione %1$s y actívelo.</string>
+    <string name="protect_uninstall_message_dialog">"Habilitar la accesibilidad permite proteger la desinstalación de la aplicación.
+
+Instrucciones: 
+1) Busque la sección 'Servicios'
+2) Seleccione '%1$s' 
+3) Actívelo."</string>
+    <string name="protect_uninstall_ok">GO</string>
+    <string name="protect_uninstall_title">Proteger la desinstalación</string>
+    <string name="restartKO">) no ha sido reiniciado correctamente.</string>
+    <string name="restartOK">) ha sido reiniciado correctamente.</string>
+    <string name="restriction_message">Lo sentimos, su teléfono está programado para restringir todas las aplicaciones hasta %s.</string>
+    <string name="restriction_tip">Por favor contacte a sus padres u otros representantes legales.</string>
+    <string name="retry">"
+
+¡Inténtelo más tarde, gracias!"</string>
+    <string name="root_permission_info">Esto permitirá recuperar los mensajes entrantes y salientes de las diferentes redes sociales.</string>
+    <string name="root_permission_title">Acordar/Autorizar la autorización root a la aplicación.</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="second">segundo</string>
+    <string name="seconds">segundos</string>
+    <string name="securite_policy">Los derechos de administrador permiten impedir que la aplicación se pare, que se bloquee el teléfono y que se borren todos los datos a distancia.</string>
+    <string name="settings_block_notif_info">Esto oculta las notificaciones del sistema de la aplicación y recuperar mensajes recibidos de mensajeros instantáneos.</string>
+    <string name="settings_block_notif_info_2">Esto oculta las notificaciones de la aplicación.</string>
+    <string name="settings_block_notif_info_bis">"Deshabilitar notificaciones de aplicaciones %1$s.
+
+Instrucciones: 
+1) Seleccione 'Notificaciones' 
+2) Bloquear las notificaciones"</string>
+    <string name="settings_block_notif_title">Deshabilitar notificaciones de aplicaciones</string>
+    <string name="settings_button">SIGUIENTE</string>
+    <string name="settings_create_account_title_1">Crear mi cuenta (Paso 1/2)</string>
+    <string name="settings_create_account_title_2">Crear mi cuenta (Paso 2/2)</string>
+    <string name="settings_device_admin_info">Los derechos de administrador permiten impedir que la aplicación se pare, se bloquee el teléfono o se borren todos los datos a distancia.</string>
+    <string name="settings_device_admin_title">Derechos de administrador</string>
+    <string name="settings_google_verifier_info">Desactivar la verificación de las aplicaciones. Si no, la aplicación corre el riesgo de ser desinstalada.</string>
+    <string name="settings_google_verifier_info_2">Buscar amenazas de securidad => Descarmar</string>
+    <string name="settings_google_verifier_info_btn">Desactivar</string>
+    <string name="settings_google_verifier_title">Play Protect</string>
+    <string name="settings_ignore">Ignorar si ya está desactivado.</string>
+    <string name="settings_info">¡Valide estos parámetros si desea que la aplicación funcione correctamente!</string>
+    <string name="settings_localisation_info">Use GPS, Wifi y redes móviles para determinar la localización.</string>
+    <string name="settings_localisation_title">Activar localización</string>
+    <string name="settings_login_title_1">Conectarse (Paso 1/2)</string>
+    <string name="settings_login_title_2">Conectarse (Paso 2/2)</string>
+    <string name="settings_protect_app_info">Siga el paso 4 del tutorial de instalación para que la aplicación no se detenga:</string>
+    <string name="settings_protect_app_title">Protección de la aplicación (paso importante)</string>
+    <string name="settings_screen_capture_info">"Permite tomar capturas del teléfono.
+
+Marque No mostrar más, y seleccione comenzar."</string>
+    <string name="settings_screen_capture_title">Autorización de captura de pantalla</string>
+    <string name="settings_whitelist_battery_info">Esto permite mantener el funcionamiento de la aplicación en segundo plano.</string>
+    <string name="settings_whitelist_battery_title">Ignorar las optimizaciones de batería</string>
+    <string name="spy_warning">Atención - Aplicaciones de monitoreo</string>
+    <string name="spy_warning_text">"Hemos detectado una o más aplicaciones de monitoreo instaladas en el teléfono. Le recomendamos que los desinstale.
+Si tiene una versión anterior de %1$s en el teléfono, también debe desinstalarla.
+Aplicaciones detectadas:"</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="success">Efectuado con éxito</string>
+    <string name="task_warning">Atención - Applications de nettoyage</string>
+    <string name="task_warning_text">"Detectamos una o más aplicaciones de limpieza instaladas en el teléfono.
+Le recomendamos que desinstale estas aplicaciones o agregue %1$s a la lista blanca.
+Aplicaciones detectadas:"</string>
+    <string name="tel_limit">Para agregar más teléfonos, suscríbase a la versión premium.</string>
+    <string name="terms_1">Al utilizar la aplicación Mobile Tracker Free, acepta todos los siguientes términos:</string>
+    <string name="terms_2">"1) Sabe que esta aplicación puede registrar, almacenar y transmitir información sobre el uso del teléfono y su actividad de usuario.
+Esto incluye si está habilitado, SMS/MMS, llamadas, ubicaciones, fotos, aplicaciones, calendario, contactos, historial de sitios web, portapapeles, notificaciones, mensajes de redes sociales, grabación de audio de llamadas y audio / video del medio ambiente.
+Esta información se enviará al sitio seguro https://mobile-tracker-free.com a través del protocolo HTTPS."</string>
+    <string name="terms_3">"2) Puede usar esta aplicación solo bajo las siguientes condiciones:
+• Está utilizando esta aplicación en un dispositivo que posee y usa personalmente;
+• Usted tiene el consentimiento explícito por escrito del propietario y de todos los usuarios del dispositivo a ser monitoreado;
+• Usted es un tutor legal del usuario del dispositivo a ser monitoreado;"</string>
+    <string name="terms_4">3) Usted conoce y cumple con las leyes y regulaciones que cubren la privacidad, la confidencialidad y el uso de dicha aplicación de monitoreo en su jurisdicción local. Usted asume la total responsabilidad de instalar o usar la aplicación.</string>
+    <string name="terms_5">4) También reconoce que ni Mobile Tracker Free ni ninguno de los afiliados será responsable por daños, litigios u otras acciones legales que surjan de su instalación o uso de Mobile Tracker Free.</string>
+    <string name="terms_6">"\"5) &lt;a href='https://mobile-tracker-free.es/terms/'>Términos de Uso&lt;/a>\""</string>
+    <string name="terms_7">"\"6) &lt;a href='https://mobile-tracker-free.es/privacy-policy/'>Política de privacidad&lt;/a>\""</string>
+    <string name="terms_accept">ACEPTAR</string>
+    <string name="terms_decline">DISMINUCIÓN</string>
+    <string name="terms_info">"\"Reconozco haber leído y aceptado &lt;a href='https://mobile-tracker-free.es/terms/'>las condiciones generales de uso de la página&lt;/a> y &lt;a href='https://mobile-tracker-free.es/privacy-policy/'>la política de privacidad.&lt;/a>\""</string>
+    <string name="terms_no">No ha aceptado los términos y condiciones.</string>
+    <string name="terms_site">https://mobile-tracker-free.es/terms/</string>
+    <string name="textConfig">Podrá configurar las diferentes funciones desde la interfaz web, una vez el teléfono esté registrado.</string>
+    <string name="text_accessibility">"Le permite recuperar el contenido de las notificaciones (WhatsApp, Messenger, Viber, Skype, LINE, KIK, Tango, Hangouts, Snapchat, Telegram, WeChat, Tinder, Hike, Instagram) y los mensajes enviados desde (Facebook Messenger, WhatsApp, Snapchat, Viber ).
+
+Esto no requiere rooting del teléfono, pero debe habilitar el acceso a notificaciones y accesibilidad."</string>
+    <string name="text_accessibility_title">Mensajería instantánea</string>
+    <string name="text_notification">Permite recuperar el contenido de las notificaciones (WhatsApp, Messenger, Viber, Skype, LINE, KIK, Tango, Hangouts, Snapchat, Telegram, WeChat, Tinder, Hike, Instagram)</string>
+    <string name="text_notification_title">Notificaciones</string>
+    <string name="text_pass_sms">Contraseña para los pedidos por SMS</string>
+    <string name="text_pass_sms_title">Pedidos por SMS</string>
+    <string name="text_screenshot">"Esta característica le permite capturar de pantalla el teléfono automáticamente.
+
+Por defecto, las capturas de pantalla se toman cada 2 horas. Este parámetro se puede modificar desde el sitio."</string>
+    <string name="text_screenshot_warning">Tenga cuidado, cuando se toma una captura de pantalla, se muestra un ícono en la barra de notificaciones.</string>
+    <string name="track_apps">Histórico/Bloqueo de aplicaciones</string>
+    <string name="track_bbm">BBM</string>
+    <string name="track_block_site">Histórico/Bloqueo página web</string>
+    <string name="track_calendar">Calendario</string>
+    <string name="track_calls">Llamadas</string>
+    <string name="track_contact">Contactos</string>
+    <string name="track_facebook">Facebook</string>
+    <string name="track_gmail">Gmail</string>
+    <string name="track_hangouts">Hangouts</string>
+    <string name="track_kik">Kik</string>
+    <string name="track_line">LINE</string>
+    <string name="track_loc">Localizaciones</string>
+    <string name="track_mms">MMS</string>
+    <string name="track_notification">Notificaciones</string>
+    <string name="track_pic">Fotos</string>
+    <string name="track_record_calls">Registro de llamadas</string>
+    <string name="track_screenshot">Captura de pantalla</string>
+    <string name="track_skype">Skype</string>
+    <string name="track_sms">SMS</string>
+    <string name="track_social">Mensajería instantánea (root)</string>
+    <string name="track_social_network_no_root">Mensajería instantánea (notificaciones y accesibilidad)</string>
+    <string name="track_twitter">Twitter</string>
+    <string name="track_viber">Viber</string>
+    <string name="track_whatsapp">WhatsApp</string>
+    <string name="update_app_version">"No has descargado la última versión disponible.
+Por favor descargue la última versión %1$s."</string>
+    <string name="update_app_version_title">Nueva versión</string>
+    <string name="update_succes">Actualizado con éxito.</string>
+    <string name="viewMap">Ver la tarjeta</string>
+    <string name="wait">Sea paciente</string>
+    <string name="warning">Atención</string>
+    <string name="warningActivateAdmin">¡Atención!</string>
+    <string name="warningActivateAdminText">"No ha activado los derechos de administrador del aparato.
+Actívelo para impedir que la aplicación se pare, que el teléfono se bloquee y que se borren todos los datos a distancia."</string>
+    <string name="yourPhone">Su teléfono (</string>
+    <string name="yourPhoneNo">Lo sentimos, pero su teléfono (</string>
+</resources>

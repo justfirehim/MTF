@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@android:drawable/ic_menu_help" android:id="@id/action_help" android:orderInCategory="100" android:title="@string/action_help" app:showAsAction="collapseActionView" />
+    <item android:icon="@android:drawable/ic_menu_info_details" android:id="@id/action_terms" android:orderInCategory="100" android:title="@string/action_terms" app:showAsAction="collapseActionView" />
+    <item android:icon="@android:drawable/ic_menu_revert" android:id="@id/action_uninstall" android:orderInCategory="100" android:title="@string/action_uninstall" app:showAsAction="collapseActionView" />
+    <item android:icon="@android:drawable/ic_menu_info_details" android:id="@id/action_info" android:visible="false" android:orderInCategory="100" android:title="@string/action_info" app:showAsAction="collapseActionView" />
+</menu>

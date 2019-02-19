@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ProgressBar android:id="@id/progressBarLoad" android:paddingBottom="32.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="52.0dip" android:fillViewport="true" android:layout_alignParentTop="true">
+        <android.support.v7.widget.LinearLayoutCompat android:orientation="vertical" android:id="@id/llWarningList" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </ScrollView>
+    <android.support.v7.widget.AppCompatButton android:textColor="@color/icons" android:id="@id/buttonWarningOK" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" android:text="@string/settings_button" android:layout_alignParentBottom="true" android:layout_marginStart="4.0dip" android:layout_marginEnd="4.0dip" android:backgroundTint="@color/colorPrimary" app:backgroundTint="@color/colorPrimary" />
+</RelativeLayout>

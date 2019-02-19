@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="52.0dip" android:fillViewport="true" android:layout_alignParentTop="true">
+        <LinearLayout android:orientation="vertical" android:padding="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <android.support.v7.widget.AppCompatTextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/fix_apps_info" />
+            <android.support.v7.widget.AppCompatTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dip" android:text="@string/fix_apps_1" />
+            <android.support.v7.widget.AppCompatTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/fix_apps_2" />
+            <android.support.v7.widget.AppCompatTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/fix_apps_3" />
+            <android.support.v7.widget.AppCompatImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:src="@drawable/fix_app" />
+        </LinearLayout>
+    </ScrollView>
+    <android.support.v7.widget.AppCompatButton android:textColor="@color/icons" android:id="@id/buttonOK" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" android:text="@android:string/ok" android:layout_alignParentBottom="true" android:layout_marginStart="4.0dip" android:layout_marginEnd="4.0dip" android:backgroundTint="@color/colorPrimary" app:backgroundTint="@color/colorPrimary" />
+</RelativeLayout>

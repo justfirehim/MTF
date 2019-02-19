@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="accessibility_enable_no">Erişim erişilebilirliği etkinleştirilmedi.</string>
+    <string name="accessibility_enable_ok">Erişim erişilebilirliği etkinleştirildi.</string>
+    <string name="accessibility_facebook_write">Bir Mesaj yazın.</string>
+    <string name="accessibility_facebook_write_bis">Bir Mesaj yaz.</string>
+    <string name="accessibility_instagram_write">Mesaj...</string>
+    <string name="accessibility_message">"Facebook Messenger, WhatsApp, Viber ve Snapchat'a gönderilen mesajları almanıza olanak tanır.
+
+Adımlar: 
+1) 'Servisler'i bul
+2) %1$s'i seç 
+3) İzin Ver / Etkinleştir / Geri Gel."</string>
+    <string name="accessibility_message_apps">"Erişilebilirliği etkinleştirmek, uygulama geçmişini almanıza olanak tanır.
+
+Talimatlar: 
+1) Arama Bölümü 'Servisler'
+2) Seç '%1$s' 
+3) İzin ver."</string>
+    <string name="accessibility_message_bis">Select %1$s and enable it.</string>
+    <string name="accessibility_message_site">"Erişilebilirliği etkinleştirmek, Web geçmişini almak ve site engellemenize olanak tanır.
+
+Talimatlar: 
+1) Arama Bölümü 'Servisler'
+2) Seç '%1$s' 
+3) İzin ver."</string>
+    <string name="accessibility_ok">DEVAM</string>
+    <string name="accessibility_snap_write">Sohbet Gönder</string>
+    <string name="accessibility_title">Erişebilirliği Etkinleştir</string>
+    <string name="accuracy">Doğruluk</string>
+    <string name="action_close">Kapat</string>
+    <string name="action_help">Yardım</string>
+    <string name="action_info">Hesap Bilgileri</string>
+    <string name="action_terms">Yasal Uyarı</string>
+    <string name="action_uninstall">Kaldır</string>
+    <string name="activateActivateAdmin">Etkinleştir</string>
+    <string name="activateGPS">"GPS'i telefonda yeni başlattınız ("</string>
+    <string name="activateGPSD">GPS telefonda zaten etkinleştirildi (</string>
+    <string name="activateGPSE">Maalesef, GPS etkinleştirme telefonda başarısız oldu (</string>
+    <string name="activateMobile">Cep telefonundaki verileri telefonda yeni başlattınız(</string>
+    <string name="activateMobileD">Telefondaki cep telefonu verilerini kapattınız (</string>
+    <string name="activateMobileDE">Üzgünüz ancak veri mobil cihazının devre dışı bırakılması telefonda başarısız oldu (</string>
+    <string name="activateMobileE">Üzgünüz, cep telefonundaki etkinleştirme telefonda başarısız oldu. (</string>
+    <string name="activateWifi">"Telefonda sadece WiFi'yi etkinleştirdin ("</string>
+    <string name="activateWifiD">WiFi telefonda zaten aktif (</string>
+    <string name="activateWifiE">Üzgünüz, ancak telefonda WiFi etkinliği başarısız oldu (</string>
+    <string name="activate_admin">Cihaz yöneticisi aktif</string>
+    <string name="activePermissions">Uygulamanın doğru çalışması için bazı izinler verilemesi gerekiyor, gerekeli izinler için devam edin.</string>
+    <string name="address">Adres</string>
+    <string name="addressNo">Adres yok</string>
+    <string name="alertNewPhone">Kontrol Paneli Adresiniz: https://mobile-tracker-free.com</string>
+    <string name="alertNewPhoneBis">"Uygulama simgesi gizlendi -> Uygulamayı tekrar açmak isterseniz *1234* arayın.
+ Telefondaki izleri silin.
+1) Dosyalarım/İndirilenler/***.apk dosyalarını silin.
+2) Cihaz Hafızası veya Dahili Depolama/Download/***.apk dosyalarını silin.
+3) Chrome internet geçmişinin temizleyin."</string>
+    <string name="app_name">Mobile Tracker Free</string>
+    <string name="apps_message">"Engelleme çalışmaları için kullanım verilerine erişimi etkinleştirin.
+Ayarlar -> Güvenlik-> Kullanım erişimi olan uygulama => %1$s"</string>
+    <string name="apps_no">Kullanıcı verilerine erişim etkinleştirilmedi.</string>
+    <string name="apps_ok">Kullanıcı verilerine erişim etkinleştirildi.</string>
+    <string name="apps_param">Ayarlar</string>
+    <string name="apps_usage_message">Lütfen uygulama engelleme işlemi için kullanım verilerine erişimi etkinleştirin.</string>
+    <string name="apps_warning">Dikkat</string>
+    <string name="check_root">"Telefonun Root'lu olup olmadığını kontrol et..."</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="config_phone_activate_admin">Activate admin</string>
+    <string name="config_phone_activate_admin_title">Activate admin</string>
+    <string name="config_phone_name_phone">Bu Telefonun Modeli</string>
+    <string name="config_phone_save_phone">Kaydet</string>
+    <string name="config_phone_social_info_root_no">"Bu telefon Root'lu değil bu özelliği kullanamazsınız.
+
+Bu telefonun nasıl Root'landığı ile ilgili aramayı şu şekilde Google'dan yapabilirsiniz. \"%1$s nasıl Root yapılır."</string>
+    <string name="config_phone_social_info_root_no_bis">Bu telefon rootlu değil bu özelliği kullanamazsınız.</string>
+    <string name="config_phone_social_info_root_ok">"Telefonunuz Root'lu olduğundan, sosyal ağlardan gelen ve giden mesajları alabilirsiniz.
+
+Sosyal ağların listesi: Facebook, WhatsApp, Hangouts, Skype, LINE, Kik, Telegram, Viber and Gmail.
+
+Bundan sonra, Kontrol panelinizden mesaj gönderme aralığını devre dışı bırakabilirsiniz (varsayılan 4 saat)."</string>
+    <string name="config_phone_social_title">Anlık ileti</string>
+    <string name="config_title">Yapılandırma</string>
+    <string name="confirm_password_placeholder">Şifre Tekrar</string>
+    <string name="connexion">Yükleniyor…</string>
+    <string name="create_account_button">Oluştur</string>
+    <string name="create_account_main">Hesap Oluştur</string>
+    <string name="create_account_title">Yeni Hesap Oluştur</string>
+    <string name="create_user">yeni kullanıcı oluşturuldu.</string>
+    <string name="deactivate_admin">Cihaz yöneticisi devre dışı</string>
+    <string name="deactivate_admin_bis">Dikkat: cihaz yöneticisi devre dışı olursa uygulamanın istikrarsız çalışmasına neden olur.</string>
+    <string name="email_exist">Maalesef, e-posta zaten kayıtlı.</string>
+    <string name="email_no">Email adresiniz hatalı.</string>
+    <string name="email_not_valid">"Telefon eklemeden önce hesabınızı doğruladığınız için teşekkür ederiz.
+Hesabınızı doğrulamak için bir e-posta almış olmalısınız."</string>
+    <string name="email_placeholder">Email</string>
+    <string name="error">Hata</string>
+    <string name="errorUnknow">Bilinmeyen hata</string>
+    <string name="error_gcm">Error FCM</string>
+    <string name="error_network">Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="error_server">Sunucu hatası, lütfen daha sonra tekrar deneyin.</string>
+    <string name="error_user_mdp">Email ve/veya şifreniz yanlış. Lütfen tekrar deneyin.</string>
+    <string name="error_user_suspendu">Maalesef, hesabınız askıya alındı!</string>
+    <string name="example_name_phone">Örnek</string>
+    <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
+    <string name="gps">GPS</string>
+    <string name="gps_network_enabled_no">Konum Hizmetleri düzgün şekilde etkinleştirilemedi.</string>
+    <string name="gps_network_enabled_ok">Konum Hizmetleri başarıyla etkinleştirildi.</string>
+    <string name="gps_network_not_enabled">Yer tespiti yapabilmek için yetki vermelisiniz, bu yetkiyi uygulamaya bir defa vermeniz yeterlidir. Konum Aç / Geri Gel</string>
+    <string name="help_site">https://mobile-tracker-free.com/help/</string>
+    <string name="hour">saat</string>
+    <string name="hours">saatler</string>
+    <string name="in">Gelen</string>
+    <string name="inconnu">Bilinmeyen</string>
+    <string name="info_command_sms">Bu telefona SMS ile komut göndererek yer tespiti ve Wifi Aç/Kapa yapabilirsiniz, Uyarı!! Göndereceğiniz SMS Komutları telefonda görünür, mecbur kalmadıkça kullanılmamalıdır.</string>
+    <string name="info_name_phone">"Hangi model telefonu takip ediyorsun.
+Bu bilgi kontrol panelinde görünecek : https://mobile-tracker-free.com/"</string>
+    <string name="information">Bilgi</string>
+    <string name="locked">) kodla kilitlendi:</string>
+    <string name="login_attemps">Çok fazla giriş hatası var, lütfen daha sonra tekrar deneyin.</string>
+    <string name="login_button">Oturum Aç</string>
+    <string name="login_main">Oturum Aç</string>
+    <string name="login_title">Oturum Aç</string>
+    <string name="minute">dakika</string>
+    <string name="minutes">dakikalar</string>
+    <string name="missed">Cevapsız</string>
+    <string name="mode_visible">Görünmez Mod</string>
+    <string name="mode_visible_message">Simgenin gizlenmesini isterseniz, görünmez modu seçin.</string>
+    <string name="mode_visible_title">Görünmez Mod</string>
+    <string name="namePhoneEmpty">Lütfen bir telefon modeli girin.</string>
+    <string name="name_phone_exists">Telefon adı zaten var.</string>
+    <string name="network">ağ</string>
+    <string name="noCalls">Arama Yok</string>
+    <string name="noLocked">) kilitli değil.</string>
+    <string name="noMessage">Mesaj Yok</string>
+    <string name="noValidPlayServices">Geçerli bir Google Play Hizmetleri APK bulunamadı.</string>
+    <string name="no_licence">Kayıt sırasında hata oluştu, Uygulama yetkilisi ile görüşünüz.</string>
+    <string name="notifications_enable_no">Erişim bildirimi etkinleştirilmedi.</string>
+    <string name="notifications_enable_ok">Erişim bildirimi etkinleştirildi.</string>
+    <string name="notifications_message">"WhatsApp, Messenger, Viber, Skype, LINE, KIK, Tango, Hangouts, Snapchat, Telegram, WeChat, Tinder, Hike, Instagram Bildirim içeriğini almak için etkinleştirin.
+
+Adımlar: 
+1) '%1$s' Seç / İzin ver / Geri Gel"</string>
+    <string name="notifications_message_bis">Seç %1$s</string>
+    <string name="notifications_ok">DEVAM</string>
+    <string name="notifications_title">Bildirim Almayı Etkinleştir</string>
+    <string name="number_private">Özel Numara</string>
+    <string name="out">Giden</string>
+    <string name="pass_no">Şifreniz 6 karakterden büyük olmalıdır.</string>
+    <string name="pass_no_bis">Şifreniz aynı değil.</string>
+    <string name="pass_no_regex">Şifreniz en az 6 karakter uzunluğunda olmalı ve en az bir küçük harf ve bir sayısal karakter içermelidir.</string>
+    <string name="passwordSMSEmpty">Lütfen bir şifre girin !</string>
+    <string name="password_not_correct">Şifreniz doğru değil.</string>
+    <string name="password_placeholder">Şifre</string>
+    <string name="password_sms">sifresms</string>
+    <string name="privacy_site">https://mobile-tracker-free.com/privacy-policy/</string>
+    <string name="restartKO">) yeniden başlatılamadı.</string>
+    <string name="restartOK">) yeniden başlatıldı.</string>
+    <string name="retry">"
+
+Lütfen tekrar deneyin!"</string>
+    <string name="root_permission_info">Bu izin Sosyal ağlardan gelen ve giden mesajlara erişim için gerekilidir, kontrol panelinde göreceğiniz birkaç başka özelliğide kullanabileceksiniz.</string>
+    <string name="root_permission_title">Uygulamaya ROOT izni ver.</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="second">saniye</string>
+    <string name="seconds">saniyeler</string>
+    <string name="securite_policy">Cihaz yöneticisinin aktif olması uygulamanın kapanmasını önlemesi, telefonun engellenmesi ve tüm verilerin uzaktan silinmesine olanak tanır.</string>
+    <string name="settings_block_notif_info">Bu, sistemle ilgili bildirimleri uygulamadan gizler.</string>
+    <string name="settings_block_notif_info_2">Bu uygulama ile ilgili bildirimleri gizler.</string>
+    <string name="settings_block_notif_info_bis">"%1$s uygulaması için telefonda herhangi bir uyarı bildirimi açılmayacak.
+
+Adımlar: 
+1) Seç 'Bildirimler' 
+2) Bildirimleri Kapat. 
+3) Bu sayfaya gelene kadar Geri tuşuna bas"</string>
+    <string name="settings_block_notif_title">Bildirimleri Kapat</string>
+    <string name="settings_button">DEVAM ET</string>
+    <string name="settings_create_account_title_1">Hesap Oluştur (Adım 1/2)</string>
+    <string name="settings_create_account_title_2">Hesap Oluştur (Adım 2/2)</string>
+    <string name="settings_device_admin_info">Uygulamanın kapanmasını önlemek, Tüm verilerin uzaktan silinmesi, ve telefon yönetme yetkisi vermek için Etkinleştir</string>
+    <string name="settings_device_admin_title">Cihaz Yöneticisi</string>
+    <string name="settings_google_verifier_info">Açılan sayfada Google bulun ve açın / Güvenlik / Google Play Protect / Cihazı Güvenlik tehditlerine karşı tara / Kapat / Tamam / Bu sayfaya gelene kadar Geri gel</string>
+    <string name="settings_google_verifier_info_2">Cihazı güvenlik tehditlerine karşı tara => Kapat</string>
+    <string name="settings_google_verifier_info_btn">Devre dışı</string>
+    <string name="settings_google_verifier_title">Play Protect</string>
+    <string name="settings_ignore">Daha önce Devre dışı bıraktıysanız Yoksayın.</string>
+    <string name="settings_info">Uygulamanın düzgün çalışabilmesi için bu sayfadaki ayarları açın!</string>
+    <string name="settings_localisation_info">Konumu belirlemek için GPS, Wifi ve mobil ağları kullanın.</string>
+    <string name="settings_localisation_title">Yerelleştirmeyi etkinleştir</string>
+    <string name="settings_login_title_1">Oturum Aç (Adım 1/2)</string>
+    <string name="settings_login_title_2">Oturum Aç (Adım 2/2)</string>
+    <string name="settings_protect_app_info">Uygulamanın durdurulmadığından emin olmak için yükleme öğreticisinin 4. adımını izleyin:</string>
+    <string name="settings_protect_app_title">Uygulamanın korunması (Önemli Adım)</string>
+    <string name="settings_screen_capture_info">"Ekran görüntüsü kaydetme izni ver.
+
+Check \"Bir daha gösterme\", Seç ve Şimdi Başla Bas"</string>
+    <string name="settings_screen_capture_title">Ekran Yakalama İzni</string>
+    <string name="settings_whitelist_battery_info">Arka planda çalışırken pil kullanımını minimum seviyeye düşürür, aç ve EVETe bas</string>
+    <string name="settings_whitelist_battery_title">Pil Kullanımını Düşür</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="success">Başarılı.</string>
+    <string name="tel_limit">Daha fazla telefon eklemek için lütfen premium sürümüne abone olun.</string>
+    <string name="terms_info">"\"&lt;a href='https://mobile-tracker-free.com/terms/'> Kullanım Şartlarını Okudum ve Kabul Ediyorum &lt;/a>\""</string>
+    <string name="terms_no">Kullanım şartlarını ve koşullarını kabul etmediniz.</string>
+    <string name="terms_site">https://mobile-tracker-free.com/terms/</string>
+    <string name="textConfig">"Bu özellikleri Root'lu telefonlarda kullanabilirsiniz."</string>
+    <string name="text_accessibility">"Bildirimlerin içeriğini alır (WhatsApp, Messenger, Viber, Skype, LINE, KIK, Tango, Hangouts, Snapchat, Telegram, WeChat, Tinder, Hike, Instagram) ve mesaj gönderdi (Facebook Messenger, WhatsApp, Snapchat, Viber).
+
+Bu, telefonun köklenmesi gerektirmez ancak bildirimlere ve erişilebilirliğe erişimi etkinleştirmelisiniz."</string>
+    <string name="text_accessibility_title">Anlık ileti</string>
+    <string name="text_notification">(WhatsApp, Messenger, Viber, Skype, LINE, KIK, Tango, Hangouts, Snapchat, Telegram, WeChat, Tinder, Hike, Instagram) Bildirimlerin içeriğini almak için kullanılır.</string>
+    <string name="text_notification_title">Bildirimler</string>
+    <string name="text_pass_sms">Uzaktan SMS ile komut şifresi belirle</string>
+    <string name="text_pass_sms_title">SMS Komut Şifresi</string>
+    <string name="track_apps">Uygulamalar / Uygulama Engelleme</string>
+    <string name="track_bbm">BBM</string>
+    <string name="track_block_site">Web Geçmişi / Site Engelleme</string>
+    <string name="track_calendar">Takvim Geçmişi</string>
+    <string name="track_calls">Görüşme Kayıtları</string>
+    <string name="track_contact">Telefon Rehberi</string>
+    <string name="track_facebook">Facebook</string>
+    <string name="track_gmail">Gmail</string>
+    <string name="track_hangouts">Hangouts</string>
+    <string name="track_kik">Kik</string>
+    <string name="track_line">LINE</string>
+    <string name="track_loc">Yer Tespiti</string>
+    <string name="track_mms">MMS Resimli Mesajlar</string>
+    <string name="track_notification">Bildirimler</string>
+    <string name="track_pic">Resimler</string>
+    <string name="track_record_calls">Görüşme Sesli Kayıtları</string>
+    <string name="track_screenshot">Ekran Görüntüsü Alma</string>
+    <string name="track_skype">Skype</string>
+    <string name="track_sms">SMS Mesajlar</string>
+    <string name="track_social">Anlık ileti (root)</string>
+    <string name="track_social_network_no_root">Anlık ileti (bildirimler ve erişilebilirlik)</string>
+    <string name="track_twitter">Twitter</string>
+    <string name="track_viber">Viber</string>
+    <string name="track_whatsapp">WhatsApp</string>
+    <string name="update_app_version">"Mevcut en son sürümü indirmediniz.
+Lütfen en son sürümü %1$s indirin."</string>
+    <string name="update_app_version_title">Yeni sürüm</string>
+    <string name="update_succes">Güncelleme Başarılı</string>
+    <string name="viewMap">Haritayı İncele</string>
+    <string name="wait">Lütfen bekleyiniz.</string>
+    <string name="warning">Uyarı</string>
+    <string name="warningActivateAdmin">Dikkat !</string>
+    <string name="warningActivateAdminText">Cihaz yöneticisini etkinleştirmediniz. Uygulamanın kapanmasını önlemek, telefonu kilitlemek ve tüm verileri uzaktan silmek için etkinleştirin.</string>
+    <string name="yourPhone">Telefonunuz (</string>
+    <string name="yourPhoneNo">Üzgünüz ama telefonunuz (</string>
+</resources>

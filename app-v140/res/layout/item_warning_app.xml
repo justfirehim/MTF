@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.AppCompatImageView android:id="@id/ivWarningApp" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@mipmap/ic_tooltip" />
+    <android.support.v7.widget.AppCompatTextView android:layout_gravity="center" android:id="@id/tvWarningNameApp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:layout_toLeftOf="@id/btnWarningUninstall" android:layout_toRightOf="@id/ivWarningApp" android:layout_alignBaseline="@id/btnWarningUninstall" android:layout_alignBottom="@id/btnWarningUninstall" />
+    <android.support.v7.widget.AppCompatButton android:textSize="13.0sp" android:id="@id/btnWarningUninstall" android:layout_width="wrap_content" android:layout_height="38.0dip" android:text="@string/action_uninstall" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:textAllCaps="true" />
+</RelativeLayout>
