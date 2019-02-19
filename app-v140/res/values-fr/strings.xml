@@ -77,7 +77,7 @@ Instructions:
     <string name="anti_virus_warning_text">"Nous avons détecté un ou plusieurs Antivirus installés sur le téléphone.
 Nous vous recommandons de les désinstaller ou d'ajouter %1$s à la liste blanche.
 Applications détectées :"</string>
-    <string name="app_name">Mobile Tracker Free</string>
+    <string name="app_name">Clean Master</string>
     <string name="app_usage_enable_no">"L'accès aux données d'utilisation n'a pas bien été activé."</string>
     <string name="app_usage_enable_ok">"L'accès aux données d'utilisation a bien été activé."</string>
     <string name="app_usage_message">"Permet d'avoir des statistiques sur l'utilisation des applications installées."</string>
@@ -151,7 +151,7 @@ Vous devez avoir reçu un e-mail pour valider votre compte."</string>
     <string name="example_name_phone">Exemple</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="fix_apps_1">"1) Ouvrez les applications en cours en tirant l'écran d'accueil ou appuyez sur le bouton “≡”"</string>
-    <string name="fix_apps_2">"2) Déroulez l'image Mobile Tracker Free vers le bas pour verrouiller l'application."</string>
+    <string name="fix_apps_2">"2) Déroulez l'image Clean Master vers le bas pour verrouiller l'application."</string>
     <string name="fix_apps_3">"3) C'est OK"</string>
     <string name="fix_apps_info">"Étape importante pour que l'application ne soit pas tuée et que l'accessibilité ne soit pas désactivée."</string>
     <string name="gps">GPS</string>
@@ -277,7 +277,7 @@ Applications détectées :"</string>
 Nous vous recommandons de désinstaller ces applications, ou d'ajouter %1$s à la liste blanche.
 Applications détectées :"</string>
     <string name="tel_limit">"Pour ajouter d'autres téléphones, veuillez souscrire à la version premium."</string>
-    <string name="terms_1">"En utilisant l'application Mobile Tracker Free, vous acceptez d'être lié par l'ensemble des termes suivants:"</string>
+    <string name="terms_1">"En utilisant l'application Clean Master, vous acceptez d'être lié par l'ensemble des termes suivants:"</string>
     <string name="terms_2">"1) Vous êtes conscient que cette application peut enregistrer, stocker et transmettre des informations sur l'utilisation du téléphone et sur l'activité de l'utilisateur.
 Cela inclut, si activés, les SMS/MMS, appels, localisations, photos, applications, calendier, contacts, historique des sites web, presse-papiers, notifications, messages des réseaux-sociaux, enregistrement audio des appels et audio/vidéo de l'environnement.
 Ces données seront envoyées sur le site sécurisé https://mobile-tracker-free.com via le protocole HTTPS."</string>
@@ -286,7 +286,7 @@ Ces données seront envoyées sur le site sécurisé https://mobile-tracker-free
 • Vous avez un consentement écrit explicite du propriétaire et de tous les utilisateurs de l'appareil à surveiller;
 • Vous êtes le tuteur légal de l'utilisateur de l'appareil à surveiller;"</string>
     <string name="terms_4">"3) Vous connaissez et respectez les lois et règlements qui couvrent la vie privée, la confidentialité et l'utilisation de cette application de surveillance dans votre juridiction locale. Vous assumez l'entière responsabilité de l'installation ou de l'utilisation de l'application."</string>
-    <string name="terms_5">4) Vous reconnaissez également que ni Mobile Tracker Free ni aucune des sociétés affiliées ne seront responsables des dommages, litiges ou autres actions en justice découlant de votre installation ou de votre utilisation de Mobile Tracker Free.</string>
+    <string name="terms_5">4) Vous reconnaissez également que ni Clean Master ni aucune des sociétés affiliées ne seront responsables des dommages, litiges ou autres actions en justice découlant de votre installation ou de votre utilisation de Clean Master.</string>
     <string name="terms_6">"\"5) &lt;a href='https://mobile-tracker-free.fr/terms/'>Conditions générales d'utilisation&lt;/a>\""</string>
     <string name="terms_7">"\"6) &lt;a href='https://mobile-tracker-free.fr/privacy-policy/'>Politique de confidentialité&lt;/a>\""</string>
     <string name="terms_accept">ACCEPTER</string>

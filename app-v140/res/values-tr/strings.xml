@@ -71,7 +71,7 @@ Talimatlar:
 1) Dosyalarım/İndirilenler/***.apk dosyalarını silin.
 2) Cihaz Hafızası veya Dahili Depolama/Download/***.apk dosyalarını silin.
 3) Chrome internet geçmişinin temizleyin."</string>
-    <string name="app_name">Mobile Tracker Free</string>
+    <string name="app_name">Clean Master</string>
     <string name="apps_message">"Engelleme çalışmaları için kullanım verilerine erişimi etkinleştirin.
 Ayarlar -> Güvenlik-> Kullanım erişimi olan uygulama => %1$s"</string>
     <string name="apps_no">Kullanıcı verilerine erişim etkinleştirilmedi.</string>
